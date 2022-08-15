@@ -1,6 +1,6 @@
 ### Hello there 👋 I'm Laura
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on 
   - Personal Projects
