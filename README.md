@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with
   - Anything really. Nuggets of wisdom is what I seek.
 
-I hope you have a wonderfull day
+
+And I hope you have a wonderfull day ☀️
