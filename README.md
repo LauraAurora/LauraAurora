@@ -16,6 +16,5 @@
 - 🤔 I’m looking for help with
   - Anything really. Nuggets of wisdom is what I seek.
 
- <br/><br/>
-###
+ <br/>
 And I hope you have a wonderfull day ☀️
