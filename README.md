@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on 
-  - Personal Projects
+  - Personal Projects such a Mars Weather Website and a Binary Tree Visualizer
   - Starting a Medium Blog
    <br/>
 - 🌱 I’m currently learning
