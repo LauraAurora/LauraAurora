@@ -3,12 +3,11 @@
 
 
 - 🔭 I’m currently working on 
-  - Personal Projects such a Mars Weather Website and a Binary Tree Visualizer
-  - Starting a Medium Blog
+  - Personal Projects: Goodreads: To Be Read (TBR) web-application
+  - Starting a Medium/Dev Blog
    <br/>
 - 🌱 I’m currently learning
-  - JavaScript & React
-  - OOP
+  - Python & Golang
    <br/>
 - 👯 I’m looking to collaborate on
   - Any exciting project! I'm just wanting to experience as much as I can
